@@ -1,0 +1,6 @@
+"STARTUP.obj",
+"power.obj" 
+TO "power" 
+RAMSIZE(256) 
+CODE( 0X0000-0X9FFF )
+XDATA( 0X8000-0XBFFF )
